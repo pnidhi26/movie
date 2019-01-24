@@ -17,7 +17,7 @@ Implemented text analysis using machine learning models to classify movie review
     - SVM: 99.0606936416%
     - KNN: 98.6994219653%
 
-# Dataset Source (from Kaggle): https://inclass.kaggle.com/c/si650winter11/data
+# Dataset Source (from Kaggle): https://www.kaggle.com/c/si650winter11/data
 
 # Used Tools-
 - Python3
