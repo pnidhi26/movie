@@ -1,6 +1,6 @@
 # Movie Reviews Sentiment Analysis using machine learning
 
-Implemented text analysis using machine learning models to classify movie review sentiments as positive or negative.
+Implemented text analysis using machine learning models to classification of sentiments from movie reviews given by cinema users as positive or negative.
 
 # Tuned CountVectorizer (1_gram) to get appropriate features/tokens and then transformed to obtain input variable (document term matrix).
 
